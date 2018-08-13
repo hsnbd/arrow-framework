@@ -1,0 +1,18 @@
+{
+    "name": "hasan/framework",
+    "description": "This is Simple Framework using Symphony components",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^7.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hsnbd",
+            "email": "hasanbd666@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/http-foundation": "^4.1"
+    }
+}
